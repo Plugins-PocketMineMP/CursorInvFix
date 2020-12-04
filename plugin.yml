@@ -1,0 +1,6 @@
+name: CursorInvFix
+author: alvin0319
+main: alvin0319\CursorInvFix\CursorInvFix
+version: 1.0.0
+api: 3.0.0
+description: A plugin for PocketMine-MP that attempts to fix Win10's cursor inv
